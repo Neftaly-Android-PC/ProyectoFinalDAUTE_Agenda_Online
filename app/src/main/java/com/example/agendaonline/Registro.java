@@ -62,7 +62,6 @@ public class Registro extends AppCompatActivity {
         RegistrarUsuario.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View view) {
-                //
                 ValidarDatos();
             }
         });
@@ -70,8 +69,7 @@ public class Registro extends AppCompatActivity {
         tengounaCuentaTxt.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View view) {
-                //
-                startActivity(new Intent(Registro.this,Login.class));
+                startActivity(new Intent(Registro.this, Login.class));
             }
         });
     }
