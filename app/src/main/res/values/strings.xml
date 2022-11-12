@@ -16,4 +16,16 @@
 
     <!--Menu Principal-->
     <string name="Cerrarsesion">Salir</string>
+
+    <!--Activdad Login-->
+    <string name="IniciarSesionTxt">Iniciar sesion</string>
+    <string name="CorreoLogin">Correo</string>
+    <string name="PassLogin">Contraseña</string>
+    <string name="Btn_Logeo">Ingresar</string>
+    <string name="usuarionuevotxt">No tienes una cuenta?. Registrate</string>
+
+    <!---Menu principal-->
+    <string name="BienvenidoPrincipal">Bienvenido(a)</string>
+    <string name="NombresPrincipal"> -- </string>
+    <string name="CorreoPrincipal"> -- </string>
 </resources>
